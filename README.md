@@ -9,7 +9,7 @@ Additionally, you will have access to a torpedo after a loading time. The torped
 very large hitbox.
 
 Controls:
-Position is controlled by the mouse.
-S - Fire. Always shoots toward the center of the screen.
-A/D - Roll left or right (interchangeable). While rolling, you are briefly invincible.
+Position is controlled by the mouse.  
+S - Fire. Always shoots toward the center of the screen.  
+A/D - Roll left or right (interchangeable). While rolling, you are briefly invincible.  
 W - Fire torpedo.
